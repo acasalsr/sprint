@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Low hanging fruit",
+    "time-consuming": "1h aprox"
+  },
+  {
+    "id": "2",
+    "name": "Piece of cake",
+    "time-consuming": "3h aprox"
+  },
+  {
+    "id": "3",
+    "name": "It Ain’t Rocket Science",
+    "time-consuming": "5h-7h aprox"
+  },
+  {
+    "id": "5",
+    "name": "Ornitorinco (Platypus). Just because it rhymes with Cinco in Spanish :P",
+    "time-consuming": "1-3 days"
+  },
+  {
+    "id": "8",
+    "name": "An arm and a leg",
+    "time-consuming": "Full week"
+  },
+  {
+    "id": "13",
+    "name": "Just squeaking by",
+    "time-consuming": "Week and a half"
+  },
+  {
+    "id": "20",
+    "name": "Don’t put all your eggs in one basket",
+    "time-consuming": "2 weeks"
+  },
+  {
+    "id": "40",
+    "name": "Meterse en un berenjenal",
+    "time-consuming": "1 month"
+  },
+  {
+    "id": "100",
+    "name": "Monster task",
+    "time-consuming": "3 months"
+  },
+  {
+    "id": "Infinite",
+    "name": "When pigs fly",
+    "time-consuming": "Infinite"
+  },
+  {
+    "id": "?",
+    "name": "Here be dragons",
+    "time-consuming": "No clue"
+  },
+  {
+    "id": "Break",
+    "name": "Ping Pong",
+    "time-consuming": "Coffee break card"
+  }
+]
