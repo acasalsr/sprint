@@ -3,72 +3,72 @@
     "id": "1",
     "name": "Low hanging fruit",
     "time-consuming": "1h aprox",
-    "src": "../assets/1.Low_hanging_fruit.png"
+    "src": "/images/1.Low_hanging_fruit.png"
   },
   {
     "id": "2",
     "name": "Piece of cake",
     "time-consuming": "3h aprox",
-    "src": "../assets/2.Piece_of_cake.png"
+    "src": "/images/2.Piece_of_cake.png"
   },
   {
     "id": "3",
     "name": "It Ain’t Rocket Science",
     "time-consuming": "5h-7h aprox",
-    "src": "../assets/3.It_Aint_Rocket_Science.png"
+    "src": "/images/3.It_Aint_Rocket_Science.png"
   },
   {
     "id": "5",
     "name": "Ornitorinco (Platypus). Just because it rhymes with Cinco in Spanish :P",
     "time-consuming": "1-3 days",
-    "src": "../assets/5.Ornitorinco.png"
+    "src": "/images/5.Ornitorinco.png"
   },
   {
     "id": "8",
     "name": "An arm and a leg",
     "time-consuming": "Full week",
-    "src": "../assets/8.An_arm_and_a_leg.png"
+    "src": "/images/8.An_arm_and_a_leg.png"
   },
   {
     "id": "13",
     "name": "Just squeaking by",
     "time-consuming": "Week and a half",
-    "src": "../assets/13.Just_squeaking_by.png"
+    "src": "/images/13.Just_squeaking_by.png"
   },
   {
     "id": "20",
     "name": "Don’t put all your eggs in one basket",
     "time-consuming": "2 weeks",
-    "src": "../assets/20.Dont_put_all_your_eggs_in_one_basket.png"
+    "src": "/images/20.Dont_put_all_your_eggs_in_one_basket.png"
   },
   {
     "id": "40",
     "name": "Meterse en un berenjenal",
     "time-consuming": "1 month",
-    "src": "../assets/40.Meterse_en_un_berenjenal.png"
+    "src": "/images/40.Meterse_en_un_berenjenal.png"
   },
   {
     "id": "100",
     "name": "Monster task",
     "time-consuming": "3 months",
-    "src": "../assets/100.Monster_task.png"
+    "src": "/images/100.Monster_task.png"
   },
   {
     "id": "Infinite",
     "name": "When pigs fly",
     "time-consuming": "Infinite",
-    "src": "../assets/101.When_pigs_fly.png"
+    "src": "/images/101.When_pigs_fly.png"
   },
   {
     "id": "?",
     "name": "Here be dragons",
     "time-consuming": "No clue",
-    "src": "../assets/102.Here_be_dragons.png"
+    "src": "/images/102.Here_be_dragons.png"
   },
   {
     "id": "Break",
     "name": "Ping Pong",
     "time-consuming": "Coffee break card",
-    "src": "../assets/103.coffee_break.png"
+    "src": "/images/103.coffee_break.png"
   }
 ]

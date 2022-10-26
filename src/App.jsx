@@ -4,7 +4,7 @@ import Data from "./data/data.json";
 function App() {
   return (
     <>
-      <h1 className=" text-lg text-cyan-800">hola</h1>
+      <h1 className=" text-lg text-cyan-800">Hola</h1>
       {Data.map((dataJson) => {
         return (
           <>
